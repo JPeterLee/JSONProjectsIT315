@@ -1,0 +1,50 @@
+{
+  "ChestWorkouts":
+  [
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/pushup.jpeg", "WorkoutName":"Push Up", "WorkoutTarget":"Chest", "WorkoutTip":"Be sure to tuck your arms in!", "WorkoutVideo":"https://www.youtube.com/watch?v=IODxDxX7oi4"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/threewayfly.jpg", "WorkoutName":"Three Way Fly", "WorkoutTarget":"Chest", "WorkoutTip":"Can be down with rope or cable. High and low will target different sections of the chest.", "WorkoutVideo":"https://www.youtube.com/watch?v=Iwe6AmxVf7o"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/pecdeck.jpeg", "WorkoutName":"Pec Deck", "WorkoutTarget":"Chest", "WorkoutTip":"Straighten your arms bringing in, and loosen to bend the elbow bringing out.", "WorkoutVideo":"https://www.youtube.com/watch?v=u56jywgbvE4"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/benchpress.jpeg", "WorkoutName":"Barbell Bench Press", "WorkoutTarget":"Chest", "WorkoutTip":"Use the foot to push on the way up. And make sure the back is contracted for stability.", "WorkoutVideo":"https://www.youtube.com/watch?v=rT7DgCr-3pg"}
+  ],
+
+  "ArmsWorkouts":
+  [
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/bandcurl.jpg", "WorkoutName":"Resistance Band Curl", "WorkoutTarget":"Biceps", "WorkoutTip":"Use different strength bands for increase or decrease flexion.", "WorkoutVideo":"https://www.youtube.com/watch?v=3g-1J2KkX_8"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/bbbicepcurl.jpeg", "WorkoutName":"Barbell Bicep Curl", "WorkoutTarget":"Biceps", "WorkoutTip":"Don't bring the barbell all the way up; the top 15-20% of range doesn't load the bicep.", "WorkoutVideo":"https://www.youtube.com/watch?v=QZEqB6wUPxQ"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/dbcurl.jpeg", "WorkoutName":"Dumbbell Bicep Curl", "WorkoutTarget":"Biceps", "WorkoutTip":"You can twist or go straight up for varied flexion.", "WorkoutVideo":"https://www.youtube.com/watch?v=ykJmrZ5v0Oo"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/dbpreachercurl.jpg", "WorkoutName":"Dumbbell Preacher Curl", "WorkoutTarget":"Biceps", "WorkoutTip":"Don't overload the weight, the risk of tearing the bicep is high with this exercise.", "WorkoutVideo":"https://www.youtube.com/watch?v=fIWP-FRFNU0"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/tricepdip.jpg", "WorkoutName":"Tricep Dips", "WorkoutTarget":"Triceps", "WorkoutTip":"Keeping a good form will put less stress on the wrist. If you feel wrist pain, try another tricep exercise.", "WorkoutVideo":"https://www.youtube.com/watch?v=6kALZikXxLc"}
+  ],
+
+  "ShouldersWorkouts":
+  [
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/bbfrontraise.jpeg", "WorkoutName":"Barbell Front Raise", "WorkoutTarget":"Shoulders", "WorkoutTip":"Be sure to give at least 2 minute raise in between for greater benefit.", "WorkoutVideo":"https://www.youtube.com/watch?v=-t7fuZ0KhDA"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/bbshoulderpress.jpg", "WorkoutName":"Barbell Overhead Press", "WorkoutTarget":"Shoulders", "WorkoutTip":"Follow the video for good form to minimize rotator cuff damage.", "WorkoutVideo":"https://www.youtube.com/watch?v=_RlRDWO2jfg"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/seateddbshoulderpress.jpg", "WorkoutName":"Dumbbell Shoulder Press", "WorkoutTarget":"Shoulders", "WorkoutTip":"Have a spotter to help bring the weight up for PRs (Personal Records)", "WorkoutVideo":"https://www.youtube.com/watch?v=qEwKCR5JCog"}
+  ],
+
+  "BackWorkouts":
+  [
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/cablerow.jpg", "WorkoutName":"Cable Rows", "WorkoutTarget":"Back", "WorkoutTip":"Use different grips/handles to hit different back muscles.", "WorkoutVideo":"https://www.youtube.com/watch?v=GZbfZ033f74"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/dbrows.jpg", "WorkoutName":"Dumbbell Rows", "WorkoutTarget":"Back", "WorkoutTip":"Having a good form is essential to focus on the back muscles.", "WorkoutVideo":"https://www.youtube.com/watch?v=djKXLt7kv7Q"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/deadlift.jpg", "WorkoutName":"Deadlifts", "WorkoutTarget":"Back", "WorkoutTip":"There's also a Hex Bar variation that could help reduce back pain/injury with this exercise.", "WorkoutVideo":"https://www.youtube.com/watch?v=VL5Ab0T07e4"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/pullup.jpg", "WorkoutName":"Pull Ups", "WorkoutTarget":"Back", "WorkoutTip":"The position of the hands on the bar will target different back muscles.", "WorkoutVideo":"https://www.youtube.com/watch?v=eGo4IYlbE5g"}
+  ],
+
+  "AbsWorkouts":
+  [
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/abwheel.jpg", "WorkoutName":"Ab Wheel", "WorkoutTarget":"Abs", "WorkoutTip":"Going slow will hit the muscles better and increase endurance.", "WorkoutVideo":"https://www.youtube.com/watch?v=rqiTPdK1c_I"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/declinedcrunches.jpeg", "WorkoutName":"Decline Sit Ups", "WorkoutTarget":"Abs", "WorkoutTip":"Adding twists or holding weights in the hands are ways to incorporate different variations.", "WorkoutVideo":"https://www.youtube.com/watch?v=QhGU5cmNZds"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/plank.jpg", "WorkoutName":"Plank", "WorkoutTarget":"Abs", "WorkoutTip":"Be sure to bring the butt down. You can try it next to a mirror to see your form.", "WorkoutVideo":"https://www.youtube.com/watch?v=ASdvN_XEl_c"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/seatedcurls.jpg", "WorkoutName":"Crunches", "WorkoutTarget":"Abs", "WorkoutTip":"Give yourself enough raise (2-3 minutes) between sets for more effective sessions.", "WorkoutVideo":"https://www.youtube.com/watch?v=5ER5Of4MOP"}
+  ],
+
+  "LegsWorkouts":
+  [
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/bblunges.jpg", "WorkoutName":"Barbell Lunges", "WorkoutTarget":"Legs", "WorkoutTip":"Slow and steady will help increase endurance.", "WorkoutVideo":"https://www.youtube.com/watch?v=ci4rsmlOk24"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/bulgarianss.jpg", "WorkoutName":"Bulgarian Split Squats", "WorkoutTarget":"Legs", "WorkoutTip":"Adjust your distance from the bench/hold foot based on your height.", "WorkoutVideo":"https://www.youtube.com/watch?v=2C-uNgKwPLE"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/frontsquat.jpg", "WorkoutName":"Barbell Front Squat", "WorkoutTarget":"Legs", "WorkoutTip":"Try different hand/finger grips to find what you are most comfortable with; be mindful of your wrist pain (if any).", "WorkoutVideo":"https://www.youtube.com/watch?v=v-mQm_droHg"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/legpress.jpg", "WorkoutName":"Leg Press", "WorkoutTarget":"Legs", "WorkoutTip":"Different foot positions will target different lower body muscles.", "WorkoutVideo":"https://www.youtube.com/watch?v=GvRgijoJ2xY"},
+    {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/bbsquat.jpg", "WorkoutName":"Barbell Squat", "WorkoutTarget":"Legs", "WorkoutTip":"Having a good form is essential for this exercise. And make sure to have a spotter or safety bar set to right height when attempting PRs (Personal Records).", "WorkoutVideo":"https://www.youtube.com/watch?v=bEv6CCg2BC8"}
+  ]
+}
