@@ -26,5 +26,6 @@
     {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/frontsquat.jpg", "WorkoutName":"Barbell Front Squat", "WorkoutTarget":"Legs", "WorkoutTip":"Try different hand/finger grips to find what you are most comfortable with; be mindful of your wrist pain (if any).", "WorkoutVideo":"https://www.youtube.com/watch?v=v-mQm_droHg"},
     {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/legpress.jpg", "WorkoutName":"Leg Press", "WorkoutTarget":"Legs", "WorkoutTip":"Different foot positions will target different lower body muscles.", "WorkoutVideo":"https://www.youtube.com/watch?v=GvRgijoJ2xY"},
     {"WorkoutImage":"https://github.com/JPeterLee/JSONProjectsIT315/blob/master/bbsquat.jpg", "WorkoutName":"Barbell Squat", "WorkoutTarget":"Legs", "WorkoutTip":"Having a good form is essential for this exercise. And make sure to have a spotter or safety bar set to right height when attempting PRs (Personal Records).", "WorkoutVideo":"https://www.youtube.com/watch?v=bEv6CCg2BC8"}
-  ]
+  ],
+  "Workout":"Yes"
 }
